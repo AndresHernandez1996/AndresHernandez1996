@@ -87,6 +87,8 @@ Working toward becoming a <strong>Frontend Engineer</strong>, continuously impro
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+--- 
+
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreshernandez1996/)
