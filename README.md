@@ -5,15 +5,11 @@
 ---
 
 <p align="center">
-I’m a Frontend Developer with a background in Data Science.
+I’m a Frontend Developer.
 </p>
 
 <p align="center">
 I enjoy creating products from scratch and continuously refining both code and user experience.
-</p>
-
-<p align="center">
-Recently completed a Data Science bootcamp at TripleTen and the Meta Front-End Developer Professional Certificate.
 </p>
 
 <p align="center">
